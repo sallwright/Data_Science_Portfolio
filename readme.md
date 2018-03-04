@@ -8,14 +8,16 @@ This repo contains data science projects that I have completed whilst learning a
      - __Natural Language Processing__
           - [Sentiment Analysis using NLTK](https://github.com/sallwright/Machine-Learning-Portfolio/tree/master/NLP%20for%20University%20Movie%20Review%20Survey)
      - __Regression__
-          - [Regression for Daegu Housing Prices](https://github.com/sallwright/Machine-Learning-Portfolio/tree/master/Regression%20Model%20for%20Daegu%20Housing%20Data)
+          - [Regression Model for Daegu Housing Prices](https://github.com/sallwright/Machine-Learning-Portfolio/tree/master/Regression%20Model%20for%20Daegu%20Housing%20Data)
      - __Classification__
           - [Classifier Models for Predicting Employee Churn](https://github.com/sallwright/Machine-Learning-Portfolio/tree/master/Classification%20Model%20for%20Employee%20Churn%20Data)
 
 - ### Micro Projects
     Here are a selection of micro projects that I've created. They are not executed to the same extent as my full portfolio projects, but still contain some interesting skills and insights. Note: They won't be as true a reflection of my ability as the full portfolio.
      - __Natural Language Processing__
-          - [Using Natural Language Processing with Spam Detection](https://github.com/sallwright/Machine-Learning-Portfolio/blob/master/NLP%20with%20Spam%20Detection.ipynb): A model to detect spam messages
+          - [Using Natural Language Processing with Spam Detection](https://github.com/sallwright/Machine-Learning-Portfolio/blob/master/NLP%20with%20Spam%20Detection.ipynb)
+     - __Deep Learning__
+          - [Using TensorFlow to Classify Handwritten Digits](https://github.com/sallwright/Machine-Learning-Portfolio/blob/master/TensorFlow%20Model%20for%20Handwritten%20Digits.ipynb)
      - __Regression__
           - [Linear Regression Model for Ecommerce Dataset](https://github.com/sallwright/Machine-Learning-Portfolio/blob/master/Linear%20Regression%20model%20for%20Ecommerce%20Data.ipynb)
      - __Classification__
