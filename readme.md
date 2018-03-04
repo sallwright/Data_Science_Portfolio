@@ -6,11 +6,11 @@ This repo contains data science projects that I have completed whilst learning a
 - ### Full Portfolio Projects
     
      - __Natural Language Processing__
-          - [Sentiment Analysis using NLTK](https://github.com/sallwright/Machine-Learning-Portfolio/blob/master/NLP%20with%20Spam%20Detection.ipynb)
+          - [Sentiment Analysis using NLTK](https://github.com/sallwright/Machine-Learning-Portfolio/tree/master/NLP%20for%20University%20Movie%20Review%20Survey)
      - __Regression__
-          - [Regression for Daegu Housing Prices](https://github.com/sallwright/Machine-Learning-Portfolio/blob/master/Linear%20Regression%20model%20for%20Ecommerce%20Data.ipynb)
+          - [Regression for Daegu Housing Prices](https://github.com/sallwright/Machine-Learning-Portfolio/tree/master/Regression%20Model%20for%20Daegu%20Housing%20Data)
      - __Classification__
-          - [Classifier Models for Predicting Employee Churn](https://github.com/sallwright/Machine-Learning-Portfolio/blob/master/Classifier%20Model%20for%20Breast%20Cancer%20Data.ipynb)
+          - [Classifier Models for Predicting Employee Churn](https://github.com/sallwright/Machine-Learning-Portfolio/tree/master/Classification%20Model%20for%20Employee%20Churn%20Data)
 
 - ### Micro Projects:
           
